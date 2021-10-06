@@ -39,10 +39,10 @@ The workspace can be a regular place where people can come and remotely work. Id
 ### 3. Social Events ###
 
 ### 4. Crypto Events ###
-#### a. Crypto project presentations
-#### b. Introductory lectures
-#### c. Networking events
-#### d. Crypto related art events (I would love if this can take priority)
+a. Crypto project presentations
+b. Introductory lectures
+c. Networking events
+d. Crypto related art events (I would love if this can take priority)
 
 ### 5. Crypto projects ###
 #### a. Decentralized news
@@ -53,4 +53,10 @@ Started playing with [this](https://github.com/xcorat/denewz-0) but haven't gott
 
 ## Opportunities ##
 
-How politics, social and cultural dynamics can be leveraged into building a counter-culter
+### Socio-political and cultural opennings
+
+How politics, social and cultural dynamics can be leveraged into building a counter-culter.
+
+### Economic
+
+The econimic value of the space is mainly through it's function as a hackerspace for new creative talents in crypto/blockchain arena. If people come work together, make new cool projects, VCs can come and invest in these projects or hire people, providing value for these investors.
