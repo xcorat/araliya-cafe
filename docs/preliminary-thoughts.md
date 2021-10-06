@@ -39,10 +39,11 @@ The workspace can be a regular place where people can come and remotely work. Id
 ### 3. Social Events ###
 
 ### 4. Crypto Events ###
-a. Crypto project presentations
-b. Introductory lectures
-c. Networking events
-d. Crypto related art events (I would love if this can take priority)
+
+ + Crypto project presentations
+ + Introductory lectures
+ + Networking events
+ + Crypto related art events (I would love if this can take priority)
 
 ### 5. Crypto projects ###
 #### a. Decentralized news
