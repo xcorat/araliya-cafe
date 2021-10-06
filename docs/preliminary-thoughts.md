@@ -40,6 +40,11 @@ The workspace can be a regular place where people can come and remotely work. Id
 ### 4. Crypto Events ###
 
 ### 5. Crypto projects ###
+#### a. Decentralized news
+Started playing with [this](https://github.com/xcorat/denewz-0) but haven't gotten anywhere. ... ([hosted here](https://denewz-alpha.netlify.app/#/))
+#### b. Crypto-Cafe
++ Create a token for rewards (like get 10 coffees, you get one free, but instead of punch card, we give out NFT tokens), we can also use this to reserve spaces (like desks with monitors, private rooms etc). Sinece anyone can send this to anyone else, these tokans can actually create a market driving the (early-)paricipatory value up.
++ Make a DAO - make the cafe a coop, governed by the workers and users who hold a crypto token.
 
 ## Opportunities ##
 
