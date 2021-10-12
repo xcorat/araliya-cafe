@@ -49,3 +49,15 @@ Started playing with [this](https://github.com/xcorat/denewz-0) but haven't gott
 ## Opportunities ##
 
 How politics, social and cultural dynamics can be leveraged into building a counter-culter
+
+
+## Examples ##
+
+### Hackerspaces, collective workspaces
+
+1. [Noisebridge - Oakland] (https://www.noisebridge.net/wiki/Noisebridge)
+2. [Sudoroom] (https://sudoroom.org/)
+3. [Hacker Dojo](https://hackerdojo.com/)
+4. [WeWork] ?
+
+### Cafes ###
